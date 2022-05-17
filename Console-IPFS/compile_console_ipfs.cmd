@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=web.png console_ipfs.py
